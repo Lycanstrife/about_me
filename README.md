@@ -97,7 +97,7 @@ Education
   - Successfully delivered on briefs to tight deadlines consistently.
   - Demonstrated a sound understanding of Adobe software suites and designing for print.
   - Can design digitally for a wide variety of screen-based media.
-  - Understanding of layout, hierarchy, colour, and repition in delivering a clear concise message.
+  - Understanding of layout, hierarchy, colour, and repitition in delivering a clear concise message.
 
 ### Sir John Deane's College
 **A Level: Biology, History, Product Design, General Studies**
