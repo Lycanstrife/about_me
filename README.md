@@ -131,7 +131,7 @@ I'm `Lycanstrife` on [Github] and [Twitter].
   [SL8 App]: https://github.com/slateapp/slate
 
   [Makers Academy]: http://www.makersacademy.com
-  [Edukit]: http://http://www.edukit.org.uk
+  [Edukit]: http://www.edukit.org.uk
   [@_rosshepburn]: https://twitter.com/_rosshepburn
   [@CharlesDeBarros]: https://twitter.com/CharlesDeBarros
   [@ks1ngh]: https://twitter.com/ks1ngh
