@@ -3,7 +3,7 @@ Matt Thomas
 
 [Website] - [Twitter] - [Linkedin]
 
-I'm a Web Designer / Developer with a knack for solving problems and an unending passion for making things work. Currently based in London, I've spent the last few years working on a wide range of projects and expanding my skill set.
+I'm a Web Designer / Developer with a knack for solving problems and an unending passion for making things work. Now based in London, I've spent the last few years working on a wide range of projects and expanding my skill set. I'm currently developing a new UI for a start-up called [Edukit].
 Read some of my code on [GitHub].
 
 Code examples
@@ -27,7 +27,7 @@ After studying Graphic Design at university, I gravitated towards Web Design as 
   - Creating mock-ups in Photoshop
   - HTML5 and XHTML principles
   - CSS3, Sass and Twitter Bootstrap 3
-  - JavaScript, jQuery and CoffeeScript
+  - JavaScript + jQuery
   - Agile values, principles and practice
   - Object­ oriented principles and design
   - Test­ driven development
@@ -35,16 +35,16 @@ After studying Graphic Design at university, I gravitated towards Web Design as 
   - Ruby 2.1
   - Rails 4
   - PostgreSQL
-  - Sinatra and DataMapper
+  - Sinatra
   - Unit testing with RSpec and Jasmine
   - Integration testing with Capybara
-  - Behaviour driven development with Cucumber
   - Version control with git and GitHub
   - WebSockets
   - User authentication and authorisation with Devise
   - Integration of APIs including Twilio, Stripe and Paperclip
   - GitHub Flavoured Markdown
-  - Deployment to Heroku or FTP
+  - Deployment to Heroku or by FTP
+  - Experienced Graphic Designer
 
 ### Makers Academy
 **Web Development Bootcamp: February &mdash; May 2014**
@@ -68,7 +68,7 @@ After studying Graphic Design at university, I gravitated towards Web Design as 
 Experience
 ----------
 
-I have worked several jobs in the tech industry in the last few years, all the while freelancing as a Graphic / Web Designer. Most recently I was Tech Support and Web Designer for NJK Computer Services in Stockton Heath. My responsibilities included, but were not limited to, first line tech support for several large companies, web design and development, concepting, mock-ups, and hardware building and support. Prior to that, I was brought in to work alongside the TEL (Technology Enhanced Learning) Department at Edge Hill University on their JISC project. I also helped migrate one of their Moodle instances and contributed to several eLearning packages whilst there.
+I have worked several jobs in the tech industry in the last few years, all the while freelancing as a Graphic / Web Designer. Most recently, before moving to London, I was Tech Support and Web Designer for NJK Computer Services in Stockton Heath. My responsibilities included, but were not limited to, first line tech support for several large companies, web design and development, concepting, mock-ups, and hardware building and support. Prior to that, I was brought in to work alongside the TEL (Technology Enhanced Learning) Department at Edge Hill University on their JISC project. I also helped migrate one of their Moodle instances and contributed to several eLearning packages whilst there.
 
 
 Volunteering
@@ -106,13 +106,13 @@ Education
 Interests
 ---------
 
-Usability
+Usability (UI/UX)
+
+Graphic Design
 
 Code readability
 
-Software craftmanship
-
-Graphic Design
+Cross-browser Compatibility
 
 Test Driven Development
 
@@ -131,6 +131,7 @@ I'm `Lycanstrife` on [Github] and [Twitter].
   [SL8 App]: https://github.com/slateapp/slate
 
   [Makers Academy]: http://www.makersacademy.com
+  [Edukit]: http://http://www.edukit.org.uk
   [@_rosshepburn]: https://twitter.com/_rosshepburn
   [@CharlesDeBarros]: https://twitter.com/CharlesDeBarros
   [@ks1ngh]: https://twitter.com/ks1ngh
