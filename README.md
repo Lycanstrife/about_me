@@ -3,15 +3,15 @@ Matt Thomas
 
 [Website] - [Twitter] - [Linkedin]
 
-I'm a Web Designer / Developer with a knack for solving problems and an unending passion for making things work. Now based in London, I've spent the last few years working on a wide range of projects and expanding my skill set. I'm currently developing a new UI for a start-up called [Edukit].
+I'm a Web Designer / Developer with a knack for solving problems and an unending passion for making things work. Now based in London, I've spent the last few years working on a wide range of projects and expanding my skill set. I've been contracting throughout 2014, working a couple of months for each client, but am now looking for a more permanent position in 2015.
 Read some of my code on [GitHub].
 
 Code examples
 -------------
 
-| [SL8 App] | [Sudoku] | [Airport] |
+| [SL8 App] | [Sudoku] | [My Website] |
 |:--------- |:-------- |:--------- |
-| Slate is a web app to aid teachers, built in 10 days as a final project at [Makers Academy]. Team also included [@_rosshepburn], [@CharlesDeBarros], [@ks1ngh], [@alexgaudiosi], and [@sarahseewhy]. | Sinatra web app to play Sudoku puzzles with a recursive algorithm to generate and solve puzzles. | 100% test-driven Ruby model of airports and planes written using RSpec with an emphasis on code readability. |
+| Slate is a web app to aid teachers, built in 10 days as a final project at [Makers Academy]. Team also included [@_rosshepburn], [@CharlesDeBarros], [@ks1ngh], [@alexgaudiosi], and [@sarahseewhy]. | Sinatra web app to play Sudoku puzzles with a recursive algorithm to generate and solve puzzles. | My personal website. Retina-ready and cross-browser compatible. Frequently updated as I learn new skills. |
 
 
 Web development
@@ -124,9 +124,10 @@ Meet me
 I'm `Lycanstrife` on [Github] and [Twitter].
 
 07817 559 895
+
 [matt@platformprojects.org]
 
-  [Airport]: https://github.com/lycanstrife/airport
+  [My Website]: https://github.com/Lycanstrife/platformprojects
   [Sudoku]: https://github.com/lycanstrife/sudoku-sinatra
   [SL8 App]: https://github.com/slateapp/slate
 
