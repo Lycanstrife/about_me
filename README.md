@@ -36,10 +36,8 @@ After studying Graphic Design at university, I gravitated towards Web Design as 
   - Rails 4
   - PostgreSQL
   - Sinatra
-  - Unit testing with RSpec and Jasmine
-  - Integration testing with Capybara
-  - Version control with git and GitHub
   - WebSockets
+  - Version control with git and SVN
   - User authentication and authorisation with Devise
   - Integration of APIs including Twilio, Stripe and Paperclip
   - GitHub Flavoured Markdown
